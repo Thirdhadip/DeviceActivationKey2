@@ -9,12 +9,12 @@
         "device_id": "2a6de1a7508a0a23",
         "key": "p20king",
         "expirydate": "11-06-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
      {
         "device_id": "2a6de1a7508a0a23",
         "key": "p20king",
         "expirydate": "11-06-2025",
-        "Allowoffline": true
-     }
+        "Allowoffline": false
+    
 ]
