@@ -1,20 +1,7 @@
 [
     {
-        "device_id": "e9dcb5c433f86470",
-        "key": "p20king",
-        "expirydate": "11-6-2027",
-        "Allowoffline": true
+      "key": "p20king",
+        
     },
-    {
-        "device_id": "e9dcb5c433f86470",
-        "key": "p20king",
-        "expirydate": "11-06-2025",
-        "Allowoffline": false
-    },
-     {
-        "device_id": "e9dcb5c433f86470",
-        "key": "p20king",
-        "expirydate": "11-06-2025",
-        "Allowoffline": false
     
 ] 
