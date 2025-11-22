@@ -1,1 +1,1 @@
-# DeviceActivationKey2
+# DeviceActivationKey
